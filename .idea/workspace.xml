@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/lib/tools.py" line="24" mnemonic="5" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4163f84-1c4e-4cc6-8fc4-0fa68217426a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ROS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ROS/base/day11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ROS/base/task01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ROS/base/task_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Boocax_ADMIN_0.2.10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cases/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cases/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cases/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/case_template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/sendmail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/access_token.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/accesstoken.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/admin.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/auth.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/auth_change_status.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/auth_opt.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/auth_role.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/authchangename.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/authchangeuser.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/authcreateuser.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/authsendbindmsg.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/authsingleuserid.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/authtoken.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bingphone.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ceshi.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/changepwd.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/check_superuser_password.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/delbindphone.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/getallurl.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/login.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/personagechangeheadpic.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/personagechangepwd.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/personagechangepwdmsg.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/randowusername.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/register.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/reset_sys.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/signin.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/smsdigits.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/updateaccesstoken.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/bukesi/case/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/bukesi/case/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/bukesi/case/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/.idea/ROS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/.idea/ROS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/Test/case/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/Test/case/11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/Test/case/run_case.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/Test/case/sallcargo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/Test/case/scargo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/Test/case/scargo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/Test/case/test01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/Test/case/test02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/Test/case/test04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/Test/case/test05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/Test/case/testclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/Test/case/testclass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/base/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/base/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/base/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/base/02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/base/100.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/base/100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/base/100.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/base/1000.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/base/1000.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/base/ceshi1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/base/ceshi1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/base/ceshi1.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/base/ceshi1.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/base/ceshi2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/base/ceshi2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/base/ceshi3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/base/ceshi4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/base/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/base/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/base/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/base/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/base/token.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/base/token.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/base/token检测.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/base/token检测.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/common/email_L.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/common/email_L.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/access_token.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/accesstoken.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/admin.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/auth.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/base/11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/auth_change_status.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/auth_opt.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/auth_role.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/authchangename.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/authchangeuser.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/authcreateuser.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/authsendbindmsg.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/authsingleuserid.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/authtoken.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../ROS/base/222.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/bingphone.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/changepwd.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/check_superuser_password.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/delbindphone.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/getallurl.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/login.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/personagechangeheadpic.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/personagechangepwd.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/personagechangepwdmsg.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/randowusername.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/register.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/reset_sys.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/signin.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/smsdigits.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROS/new case/updateaccesstoken.yaml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ROS/base/1000.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-832">
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ROS/common/sendmail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" lean-forward="true" selection-end-line="42" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ROS/config/readConfig.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/sendmail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-274">
+              <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/tools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/report/2019_10_24_17_46_1571910363_测试报告.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/report/2019_10_24_14_08_1571897293_测试报告.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/report/report.py" />
+        <option value="$PROJECT_DIR$/conf/case_template.py" />
+        <option value="$PROJECT_DIR$/bin/start.py" />
+        <option value="$PROJECT_DIR$/cases/query.py" />
+        <option value="$PROJECT_DIR$/conf/setting.py" />
+        <option value="$PROJECT_DIR$/conf/case_template.txt" />
+        <option value="$PROJECT_DIR$/data/login.yaml" />
+        <option value="$PROJECT_DIR$/lib/tools.py" />
+        <option value="$PROJECT_DIR$/bin/run.py" />
+        <option value="$PROJECT_DIR$/data/ceshi.yaml" />
+        <option value="$PROJECT_DIR$/cases/ceshi.py" />
+        <option value="$PROJECT_DIR$/cases/1.py" />
+        <option value="$PROJECT_DIR$/data/auth.yaml" />
+        <option value="$PROJECT_DIR$/cases/login.py" />
+        <option value="$PROJECT_DIR$/cases/task.py" />
+        <option value="$PROJECT_DIR$/conf/case_template" />
+        <option value="$PROJECT_DIR$/data/task.yaml" />
+        <option value="$PROJECT_DIR$/data/access_token.yaml" />
+        <option value="$PROJECT_DIR$/../ROS/common/email_L.py" />
+        <option value="$PROJECT_DIR$/conf/email.py" />
+        <option value="$PROJECT_DIR$/conf/sendmail.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="241" />
+    <option name="y" value="38" />
+    <option name="width" value="1365" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Boocax_ADMIN_0.2.10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Boocax_ADMIN_0.2.10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unt" type="462c0819:PsiDirectoryNode" />
+              <item name="bukesi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Boocax_ADMIN_0.2.10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unt" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Boocax_ADMIN_0.2.10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unt" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Boocax_ADMIN_0.2.10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unt" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Boocax_ADMIN_0.2.10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unt" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/cases" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.sendmail (1)">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="Boocax_ADMIN_0.2.10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="Boocax_ADMIN_0.2.10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="Boocax_ADMIN_0.2.10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Boocax_ADMIN_0.2.10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="email" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Boocax_ADMIN_0.2.10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/conf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conf/email.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="email_L" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ROS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ROS/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ROS/common/email_L.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sendmail (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Boocax_ADMIN_0.2.10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/conf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conf/sendmail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sendmail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ROS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ROS/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ROS/common/sendmail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python">
+      <module name="Boocax_ADMIN_0.2.10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../ROS/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="Boocax_ADMIN_0.2.10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Boocax_ADMIN_0.2.10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in task.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Boocax_ADMIN_0.2.10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/cases/task.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Boocax_ADMIN_0.2.10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Boocax_ADMIN_0.2.10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.start" />
+      <item itemvalue="Python tests.Unittests in task.py" />
+      <item itemvalue="Python.email_L" />
+      <item itemvalue="Python.sendmail" />
+      <item itemvalue="Python.email" />
+      <item itemvalue="Python.sendmail (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sendmail (1)" />
+        <item itemvalue="Python.sendmail" />
+        <item itemvalue="Python.email" />
+        <item itemvalue="Python.email_L" />
+        <item itemvalue="Python tests.Unittests in task.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4163f84-1c4e-4cc6-8fc4-0fa68217426a" name="Default Changelist" comment="" />
+      <created>1571818476704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571818476704</updated>
+      <workItem from="1571818478455" duration="34674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_task_py - 2019.10.24 at 17h 21m 18s.xml">
+      <configuration name="Unittests in task.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_task_py - 2019.10.24 at 17h 22m 31s.xml">
+      <configuration name="Unittests in task.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_task_py - 2019.10.24 at 17h 28m 15s.xml">
+      <configuration name="Unittests in task.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_task_py - 2019.10.24 at 17h 30m 17s.xml">
+      <configuration name="Unittests in task.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_task_py - 2019.10.24 at 17h 34m 33s.xml">
+      <configuration name="Unittests in task.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_task_py - 2019.10.24 at 17h 35m 46s.xml">
+      <configuration name="Unittests in task.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_task_py - 2019.10.24 at 17h 36m 04s.xml">
+      <configuration name="Unittests in task.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_task_py - 2019.10.24 at 17h 37m 31s.xml">
+      <configuration name="Unittests in task.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_task_py - 2019.10.24 at 17h 37m 59s.xml">
+      <configuration name="Unittests in task.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_task_py - 2019.10.24 at 17h 39m 08s.xml">
+      <configuration name="Unittests in task.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34674000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20171674" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3192771" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.20181406" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32974428" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.6460296" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/unt$tools.coverage" NAME="tools Coverage Results" MODIFIED="1571893903221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/unt$Unittests_in_case_template_py.coverage" NAME="Unittests in case_template.txt Coverage Results" MODIFIED="1571881102467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conf" />
+    <SUITE FILE_PATH="coverage/unt$Unittests_in_ceshi_py.coverage" NAME="Unittests in ceshi.py Coverage Results" MODIFIED="1571898240402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/Boocax_ADMIN_0_2_10$email.coverage" NAME="email Coverage Results" MODIFIED="1571911985326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conf" />
+    <SUITE FILE_PATH="coverage/unt$start.coverage" NAME="start Coverage Results" MODIFIED="1571910362291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
+    <SUITE FILE_PATH="coverage/unt$Unittests_for_1_MyCase_login.coverage" NAME="Unittests for 1.MyCase_login Coverage Results" MODIFIED="1571898334675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/Boocax_ADMIN_0_2_10$sendmail__1_.coverage" NAME="sendmail (1) Coverage Results" MODIFIED="1571913393350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conf" />
+    <SUITE FILE_PATH="coverage/unt$Unittests_for_login_Login.coverage" NAME="Unittests for login.Login Coverage Results" MODIFIED="1571903445465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/unt$Unittests_in_login_py.coverage" NAME="Unittests in login.py Coverage Results" MODIFIED="1571903841601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/unt$Unittests_for_task_Task.coverage" NAME="Unittests for task.Task Coverage Results" MODIFIED="1571904134031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/unt$report.coverage" NAME="report Coverage Results" MODIFIED="1571825878731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report" />
+    <SUITE FILE_PATH="coverage/unt$Unittests_in_1_py.coverage" NAME="Unittests in 1.py Coverage Results" MODIFIED="1571898580468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/Boocax_ADMIN_0_2_10$sendmail.coverage" NAME="sendmail Coverage Results" MODIFIED="1571912003745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ROS/common" />
+    <SUITE FILE_PATH="coverage/unt$Unittests_in_task_py.coverage" NAME="Unittests in task.py Coverage Results" MODIFIED="1571909948200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/unt$setting.coverage" NAME="setting Coverage Results" MODIFIED="1571884064239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conf" />
+    <SUITE FILE_PATH="coverage/Boocax_ADMIN_0_2_10$email_L.coverage" NAME="email_L Coverage Results" MODIFIED="1571911579821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ROS/common" />
+    <SUITE FILE_PATH="coverage/unt$Unittests_for_task_Task_test_data.coverage" NAME="Unittests for task.Task.test_data Coverage Results" MODIFIED="1571906531702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/conf/case_template.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2019_10_24_11_53_1571889223_测试报告.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/query.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2019_10_24_14_31_1571898692_测试报告.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/auth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/ceshi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="6" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/auth.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ceshi.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/login.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/task.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/case_template">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/access_token.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/accesstoken.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-814" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/admin.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ROS/config/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ROS/common/email_L.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-724">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#38#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ROS/common/logs.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ROS/base/1000.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-832">
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ROS/data/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ROS/data/data_config.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ROS/common/sendmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-end-line="42" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2019_10_24_17_46_1571910363_测试报告.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2019_10_24_14_08_1571897293_测试报告.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/module.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/sendmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274">
+          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

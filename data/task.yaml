@@ -1,0 +1,8 @@
+-
+  url: http://192.168.0.185:7700/tasks/task/?token=de99ca162afc5e87ccaae166e66495e69abb9dbe69c7265e0df535e3
+  method : post
+  detail : task 接口
+  data :
+
+  check:
+    - 3203
